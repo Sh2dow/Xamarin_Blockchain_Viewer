@@ -31,7 +31,6 @@ namespace Blockchain_Viewer.View
 
         async static void GetData()
         {
-            var result = new List<string>();
             try
             {
                 var bi = new List<BlockchainDetail>();
@@ -55,6 +54,6 @@ namespace Blockchain_Viewer.View
             }
         }
 
-        
+
     }
 }
