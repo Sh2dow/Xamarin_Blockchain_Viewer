@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Net.Http;
 using Newtonsoft.Json;
 using System;
-using XFApp1.Model;
+using Blockchain_Viewer.Model;
 
-namespace XFApp1.View
+namespace Blockchain_Viewer.View
 {
     public partial class MyMainPage : ContentPage
     {

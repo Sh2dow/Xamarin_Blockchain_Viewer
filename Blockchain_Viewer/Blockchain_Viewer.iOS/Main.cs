@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace XFApp1.iOS
+namespace Blockchain_Viewer.iOS
 {
     public class Application
     {

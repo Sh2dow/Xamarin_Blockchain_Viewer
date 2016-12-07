@@ -1,7 +1,7 @@
 using Xamarin.Forms;
-using XFApp1.View;
+using Blockchain_Viewer.View;
 
-namespace XFApp1
+namespace Blockchain_Viewer
 {
     public class App : Application
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace XFApp1.Model
+namespace Blockchain_Viewer.Model
 {
     public class BlockchainDetail
     {
@@ -15,7 +15,7 @@ namespace XFApp1.Model
 
         public override string ToString()
         {
-            return Symbol + " , " + Buy + " , " + Sell + " , " + Last;
+            return Symbol + " : " + Buy + " / " + Sell + " / " + Last;
         }
     }
 }
